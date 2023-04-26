@@ -35,6 +35,8 @@ To change size of cache
 
 ```
 $ chmod +x build_champsim.sh
+
+$ chmod +x run_champsim.sh
 ```
 
 ChampSim takes seven parameters: Branch predictor, L1I prefetcher, L1D prefetcher, L2C prefetcher, LLC prefetcher, LLC replacement policy, and the number of cores. 
