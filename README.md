@@ -29,7 +29,7 @@ To change size of cache
 
 1. Go to the '/inc' folder, where you will find 'cache.h' file.
 
-2. In 'cache.h' file, to change size of L1, L2, or LLC caches change 'L1d_SET','L1d_WAY, 'L2C_SET','L2C_WAY', 'LLC_SET' or 'LLC_WAY' variables as neccessary.
+2. In 'cache.h' file, to change size of L1, L2, or LLC caches change 'L1d_SET', 'L1d_WAY, 'L2C_SET', 'L2C_WAY', 'LLC_SET' or 'LLC_WAY' variables as neccessary.
 
 # Compile
 
