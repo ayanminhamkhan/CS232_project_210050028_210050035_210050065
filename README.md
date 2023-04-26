@@ -4,9 +4,9 @@
 
 To run Champsim you need traces 
 
-1. Download traces from https://www.dropbox.com/sh/xs2t9y4cuqlgrlp/AACpzGOj6BcSB-BUolGaBjbta?dl=0 . Download only traces 'cadical-high-60K-134B.champsimtrace.xz', 'cadical-high-60K-134B.champsimtrace.xz', 'cadical-high-60K-134B.champsimtrace.xz' in 'back-end-bound' folder.
+1. Download traces from https://www.dropbox.com/sh/xs2t9y4cuqlgrlp/AACpzGOj6BcSB-BUolGaBjbta?dl=0 . Download only traces 'cadical-high-60K-134B.champsimtrace.xz', 'cadical-high-60K-1227B.champsimtrace.xz', 'kissat-inc-high-30K-1802B.champsimtrace.xz' in 'back-end-bound' folder.
 
-2. Move these traces into folder named 'dpc3-traces'.
+2. Make a folder named 'dpc3-traces' . Move these traces into folder named 'dpc3-traces'.
 
 3. Run any of these 3 traces as required
 
